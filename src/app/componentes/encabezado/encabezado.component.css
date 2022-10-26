@@ -1,0 +1,47 @@
+.container-fluid{
+    background-color: rgb(111, 148, 216);
+    
+}
+#logoAP{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    width: 250px;
+
+
+}
+#ws{
+    width: 50px;
+}
+#carta{
+    width: 50px;
+}
+
+#github{
+    width: 50px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ingreso{
+    margin-right: 20px;
+    color: black;
+    border-color: black;
+    
+}
+.logos{
+margin-top: 18px;
+text-align: end;
+
+}
+#banner{
+    opacity: 90%;
+    width: 100%;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-top: 1px solid black;
+}
+.button{
+    margin-right: 20px;
+}
+

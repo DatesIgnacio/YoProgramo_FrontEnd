@@ -1,0 +1,54 @@
+.container-fluid {
+
+    border-bottom: 1px rgb(31, 27, 51) solid;
+    background-color: rgb(154, 183, 236);
+}
+
+    #fotoperfil {
+        position: relative;
+     
+        bottom: 20%;
+        margin-left: 19%;
+        width: 25%;
+        border-radius: 7%;
+        box-shadow: 7px 7px 10px rgb(68, 80, 121);
+    }
+
+
+
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(29, 44, 73);
+    text-align: right;
+    margin-top: 2%;
+    margin-right: 13%;
+}
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(29, 44, 73);
+    text-align: right;
+    margin-right: 13%;
+}
+.reseña {
+    margin-left: 7%;
+    margin-right: 7%;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: justify;
+}
+h4 {
+    text-decoration: underline;
+}
+#ingreso {
+    color: black;
+    border-color: black;
+}
+#boton {
+    float: right;
+    margin-right: 13%;
+
+}

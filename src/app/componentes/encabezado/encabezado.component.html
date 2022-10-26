@@ -1,0 +1,38 @@
+
+<div class="container-fluid">
+ 
+    <div class="row row-cols-2">
+        <div>
+            <img src="../../../assets/arg-programa.png" alt="Logo de Argentina Programa" id="logoAP">
+        </div>
+
+        <div class="col" class="logos">
+            <button type="button" class="btn btn-outline" (click)="wasap()">
+                <img src="../../../assets/whatsapp-logo-4.png" id="ws">
+            </button>
+
+            <button type="button" class="btn btn-outline" (click)="correos()">
+                <img
+                src="../../../assets/kisspng-computer-icons-desktop-wallpaper-email-welcome-letter-5b5225b9ac4250.9487872215321102657056.png"
+                id="carta">
+            </button>
+
+
+            <a href="https://github.com/DatesIgnacio" target="_blank"><img src="../../../assets/github-logo.png" id="github"></a>
+        
+
+            <button type="button" class="btn btn-outline-light" id="ingreso" (click)="login()"
+                *ngIf="!isLogged">INGRESAR</button>
+            <button type="button" class="btn btn-outline-light" id="ingreso" (click)="onLogOut()"
+                *ngIf="isLogged">SALIR</button>
+        </div>
+ 
+    </div>
+  
+
+     
+</div>
+<div>
+    <img src="../../../assets/potrerillos.jpg" alt="Aconcagua" id="banner">
+</div> 
+

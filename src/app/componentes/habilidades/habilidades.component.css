@@ -1,0 +1,27 @@
+.container-fluid{
+    background: rgb(171, 199, 241);
+}
+
+.row{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 10px rgb(106, 126, 180);
+    margin-top: 500 px;
+}
+#nuevahabilidad{
+    float: initial;
+}
+
+td{
+    border-color: rgb(111, 148, 216);
+}
+.bi-bi-percent{
+    text-decoration: bold;
+}
+

@@ -1,0 +1,17 @@
+.container {
+    background-color: rgb(154, 183, 236);
+ 
+
+}
+
+#uno{
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: rgb(111, 148, 216);
+    border-bottom: 1px rgb(31, 27, 51) solid;
+
+}
+#boton{
+    border: 2px solid rgb(111, 148, 216);
+    float: right;
+}

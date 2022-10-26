@@ -1,0 +1,12 @@
+.row{
+    background-color: rgb(5, 16, 66);
+}
+p{
+    color: bisque;
+    padding: 25px;
+}
+svg{
+    float: right;
+    margin-right: 15px;
+
+}

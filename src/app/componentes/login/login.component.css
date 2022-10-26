@@ -1,0 +1,22 @@
+section{
+    background-color: rgb(154, 183, 236);
+    margin-top: 25px;
+
+}
+
+#marco{
+  
+    background-image: url(/assets/aconcagua.jpg);
+    opacity: inherit;
+    opacity: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
